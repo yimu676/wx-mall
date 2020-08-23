@@ -1,0 +1,153 @@
+{
+	"miniprogramRoot": "miniprogram/",
+	"cloudfunctionRoot": "cloudfunctions/",
+	"setting": {
+		"urlCheck": false,
+		"es6": true,
+		"enhance": true,
+		"postcss": true,
+		"preloadBackgroundData": false,
+		"minified": true,
+		"newFeature": true,
+		"coverView": true,
+		"nodeModules": false,
+		"autoAudits": false,
+		"showShadowRootInWxmlPanel": true,
+		"scopeDataCheck": false,
+		"uglifyFileName": false,
+		"checkInvalidKey": true,
+		"checkSiteMap": true,
+		"uploadWithSourceMap": true,
+		"compileHotReLoad": false,
+		"babelSetting": {
+			"ignore": [],
+			"disablePlugins": [],
+			"outputPath": ""
+		},
+		"useIsolateContext": true,
+		"useCompilerModule": false,
+		"userConfirmedUseCompilerModuleSwitch": false
+	},
+	"appid": "wx9a112be0e23f0f55",
+	"projectname": "supermall",
+	"libVersion": "2.8.1",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"list": []
+		},
+		"gamePlugin": {
+			"current": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": -1,
+			"list": [
+				{
+					"id": -1,
+					"name": "fenlei",
+					"pathName": "pages/category/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/goods_list/index",
+					"pathName": "pages/goods_list/index",
+					"query": "cid=5",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/goods_detail/index",
+					"pathName": "pages/goods_detail/index",
+					"query": "goods_id=43985",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/cart/index",
+					"pathName": "pages/cart/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "zhifu",
+					"pathName": "pages/pay/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "授权",
+					"pathName": "pages/auth/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 7,
+					"name": "pag",
+					"pathName": "pages/login/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/lo]",
+					"pathName": "pages/index/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pa",
+					"pathName": "pages/user/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 10,
+					"name": "pages/goods_detail/index",
+					"pathName": "pages/goods_detail/index",
+					"query": "goods_id=9832",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "商品收藏",
+					"pathName": "pages/collect/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 11,
+					"name": "pages/search/index",
+					"pathName": "pages/search/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "意见反馈",
+					"pathName": "pages/feedback/index",
+					"query": "",
+					"scene": null
+				}
+			]
+		}
+	}
+}
